@@ -105,7 +105,7 @@
     "name": "TikTok",
     "repo": "athretv/AfnTikTok",
     "updateStrategy": "tagPattern",
-    "tagPattern": "v([\\d.]+)\\(v\\d+\\)",
+    "tagPattern": "v([\\d.]+)",
     "assetPattern": "AfnTikTok.apk",
     "logo": "tiktok.png",
     "descKey": "apkDesc_TikTok",
