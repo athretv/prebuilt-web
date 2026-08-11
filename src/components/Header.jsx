@@ -8,7 +8,7 @@ const Header = ({ toggleMatrixAnimation, showMatrixAnimation }) => {
   return (
     <div className="header fade-in">
       <div className="header-left">
-        <a href="https://github.com/AykhanUV/prebuilt-web" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository">
+        <a href="https://github.com/athretv/prebuilt-web" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository">
           <i className="fab fa-github" aria-hidden="true"></i>
           <span className="sr-only">{t('headerGithubLinkAlt')}</span>
         </a>
