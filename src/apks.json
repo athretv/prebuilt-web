@@ -76,16 +76,16 @@
     "apkAssetUpdatedAt": "2025-04-12T16:14:16Z"
   },
   {
-    "name": "Spotify",
+    "name": "Instagram",
     "repo": "athretv/mc",
     "updateStrategy": "assetFilename",
-    "assetPattern": "Spotify-([\\d.]+)\\.apk",
-    "logo": "spotify.png",
-    "descKey": "apkDesc_Spotify",
-    "downloadLink": "https://github.com/athretv/mc/releases/download/1.21.30.03/Spotify-9.0.74.1121.apk",
-    "version": "9.0.74.1121",
-    "fileSize": 48533967,
-    "apkAssetUpdatedAt": "2025-08-28T15:39:10Z"
+    "assetPattern": "Instagram-([\\d.]+)\\.apk",
+    "logo": "instagram.png",
+    "descKey": "apkDesc_Instagram",
+    "downloadLink": "",
+    "version": "",
+    "fileSize": 0,
+    "apkAssetUpdatedAt": ""
   },
   {
     "name": "YT-Extended",
