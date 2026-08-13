@@ -82,10 +82,10 @@
     "assetPattern": "Instagram-([\\d.]+)\\.apk",
     "logo": "instagram.png",
     "descKey": "apkDesc_Instagram",
-    "downloadLink": "",
-    "version": "",
-    "fileSize": 0,
-    "apkAssetUpdatedAt": ""
+    "downloadLink": "https://github.com/athretv/mc/releases/download/1.21.30.03/Instagram-435.0.0.37.76.apk",
+    "version": "435.0.0.37.76",
+    "fileSize": 142031910,
+    "apkAssetUpdatedAt": "2026-08-13T08:34:23Z"
   },
   {
     "name": "YT-Extended",
