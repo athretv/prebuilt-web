@@ -7,11 +7,11 @@
     "assetPattern": "Afnify.apk",
     "logo": "afnify.png",
     "descKey": "apkDesc_Afnify",
-    "downloadLink": "https://github.com/athretv/Afnify/releases/download/Afnify%2820.51.39%29/Afnify.apk",
-    "version": "20.51.39",
+    "downloadLink": "https://github.com/athretv/Afnify/releases/download/Afnify%2821.13.164%29/Afnify.apk",
+    "version": "21.13.164",
     "requiresMicroG": true,
-    "fileSize": 96001208,
-    "apkAssetUpdatedAt": "2026-08-11T21:16:50Z"
+    "fileSize": 108038335,
+    "apkAssetUpdatedAt": "2026-10-16T09:28:18Z"
   },
   {
     "name": "AfnMusic",
@@ -21,11 +21,11 @@
     "assetPattern": "AfnMusic.apk",
     "logo": "afnmusic.png",
     "descKey": "apkDesc_AfnMusic",
-    "downloadLink": "https://github.com/athretv/AfnMusic/releases/download/AfnMusic%289.15.51%29/AfnMusic.apk",
+    "downloadLink": "https://github.com/athretv/AfnMusic/releases/download/AfnMusic%289.15.51%29v2/AfnMusic.apk",
     "version": "9.15.51",
     "requiresMicroG": true,
-    "fileSize": 80109253,
-    "apkAssetUpdatedAt": "2026-08-11T21:05:44Z"
+    "fileSize": 85488620,
+    "apkAssetUpdatedAt": "2026-10-16T09:26:06Z"
   },
   {
     "name": "MicroG",
@@ -145,9 +145,9 @@
     "assetPattern": "YTDLnis-.*arm64-v8a-release\\.apk",
     "logo": "ytdlnis.png",
     "descKey": "apkDesc_YTDLnis",
-    "downloadLink": "https://github.com/deniscerri/ytdlnis/releases/download/v1.8.9.1/YTDLnis-1.8.9.1-foss-arm64-v8a-release.apk",
-    "version": "1.8.9.1",
-    "fileSize": 49480986,
-    "apkAssetUpdatedAt": "2026-06-14T15:50:21Z"
+    "downloadLink": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.0/YTDLnis-1.9.0-foss-arm64-v8a-release.apk",
+    "version": "1.9.0",
+    "fileSize": 68133637,
+    "apkAssetUpdatedAt": "2026-09-07T15:31:30Z"
   }
 ]
